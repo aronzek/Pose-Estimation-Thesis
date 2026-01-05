@@ -1,0 +1,114 @@
+Container 1 Rotation:
+Roll: -1.38, Pitch: 1.58, Yaw: -2.90
+
+Container 2 Rotation:
+Roll: -13.37, Pitch: 1.19, Yaw: -93.11
+
+Container 3 Rotation:
+Roll: 1.42, Pitch: 1.77, Yaw: 62.99
+
+Container 4 Rotation:
+Roll: 0.27, Pitch: 2.06, Yaw: 35.45
+
+Container 5 Rotation:
+Roll: 0.46, Pitch: 9.92, Yaw: 0.05
+
+Container 6 Rotation:
+Roll: -1.69, Pitch: 3.26, Yaw: -4.10
+
+Container 7 Rotation:
+Roll: -11.13, Pitch: 0.69, Yaw: -93.24
+
+Container 8 Rotation:
+Roll: -0.62, Pitch: 2.33, Yaw: 28.44
+
+Container 9 Rotation:
+Roll: -4.94, Pitch: 0.20, Yaw: 49.03
+
+Container 10 Rotation:
+Roll: -1.43, Pitch: 0.57, Yaw: 23.59
+
+Container 11 Rotation:
+Roll: -11.31, Pitch: 2.81, Yaw: -78.15
+
+Container 12 Rotation:
+Roll: -19.00, Pitch: 45.41, Yaw: -30.63
+
+Container 13 Rotation:
+Roll: 0.57, Pitch: 6.41, Yaw: 9.39
+
+Container 14 Rotation:
+Roll: -2.00, Pitch: -0.05, Yaw: 31.63
+
+Container 15 Rotation:
+Roll: -1.24, Pitch: 3.13, Yaw: -4.27
+
+Container 16 Rotation:
+Roll: -0.17, Pitch: 7.02, Yaw: -0.42
+
+Container 17 Rotation:
+Roll: -29.41, Pitch: 7.61, Yaw: -79.37
+
+Container 18 Rotation:
+Roll: -32.69, Pitch: 7.06, Yaw: -83.79
+
+Container 19 Rotation:
+Roll: 8.18, Pitch: 5.78, Yaw: 57.59
+
+Container 20 Rotation:
+Roll: -22.49, Pitch: 24.04, Yaw: -48.20
+
+Container 21 Rotation:
+Roll: -2.40, Pitch: 1.15, Yaw: -34.38
+
+Container 22 Rotation:
+Roll: 16.74, Pitch: 20.60, Yaw: -2.98
+
+Container 23 Rotation:
+Roll: 0.76, Pitch: 2.99, Yaw: 30.55
+
+Container 24 Rotation:
+Roll: -2.92, Pitch: 0.21, Yaw: 51.66
+
+Container 25 Rotation:
+Roll: 0.33, Pitch: 2.28, Yaw: 36.57
+
+Container 26 Rotation:
+Roll: -31.86, Pitch: 11.27, Yaw: -76.86
+
+Container 27 Rotation:
+Roll: -1.01, Pitch: -1.33, Yaw: -43.68
+
+Container 28 Rotation:
+Roll: 0.36, Pitch: 2.53, Yaw: 29.33
+
+Container 29 Rotation:
+Roll: 30.74, Pitch: 38.06, Yaw: 37.70
+
+Container 30 Rotation:
+Roll: 40.69, Pitch: 26.46, Yaw: 57.45
+
+Container 31 Rotation:
+Roll: -15.74, Pitch: 27.23, Yaw: -34.77
+
+Container 32 Rotation:
+Roll: -11.05, Pitch: 2.76, Yaw: -81.97
+
+Container 33 Rotation:
+Roll: -28.84, Pitch: 7.27, Yaw: -79.72
+
+Container 34 Rotation:
+Roll: -14.82, Pitch: 25.70, Yaw: -33.22
+
+Container 35 Rotation:
+Roll: -48.53, Pitch: 14.53, Yaw: -82.79
+
+Container 36 Rotation:
+Roll: 0.84, Pitch: 1.66, Yaw: 69.61
+
+Container 1 Rotation:
+Roll: -1.38, Pitch: 1.58, Yaw: -2.90
+
+Container 2 Rotation:
+Roll: -13.37, Pitch: 1.19, Yaw: -93.11
+
